@@ -10,5 +10,7 @@ end
 # INPUT --> hash
 # OUTPUT --> Number, which is the smallest value in the input hash
 
-# open each door and check the box sizes. 
+# open each door and check the box sizes. keep track of the smallest box that I have seen
+# return the smallest size
 
+# 
