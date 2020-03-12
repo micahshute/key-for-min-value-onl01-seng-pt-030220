@@ -8,3 +8,4 @@ end
 
 
 # INPUT --> hash
+# OUTPUT --> Number, which is the smallest value in the input hash
