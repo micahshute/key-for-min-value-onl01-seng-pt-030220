@@ -15,5 +15,7 @@ end
 
 # -------------------------------
 
-# box label, box size = nil
-# 
+# smallest box label, smallest box size = nil
+# for each k,v pair
+#    compare v to smallest box size
+#    if smallest box size 
