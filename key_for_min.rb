@@ -6,7 +6,6 @@ def key_for_min_value(name_hash)
   smallest_num = nil
   name_hash.each do |name, num|
     if num < smallest_num 
-
       # set our variables for the smallest box
     end
       # a lot of code
