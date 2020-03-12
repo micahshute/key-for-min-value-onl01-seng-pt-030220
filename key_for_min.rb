@@ -18,4 +18,10 @@ end
 # smallest box label, smallest box size = nil
 # for each k,v pair
 #    compare v to smallest box size
-#    if smallest box size 
+#    if smallest box size is less than v
+#           go to the next door
+#    else 
+#           set smallest box size to v
+#           set smallest box label to k
+#     end
+# return k
