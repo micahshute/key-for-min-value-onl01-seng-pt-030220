@@ -7,7 +7,9 @@ def key_for_min_value(name_hash)
   name_hash.each do |name, num|
     if smallest_num < num
       next 
-      
+    else
+      # set our variables for the smallest box
+    end
       
   end
 end
@@ -25,9 +27,8 @@ end
 # smallest box label, smallest box size = nil
 # for each k,v pair
 #    compare v to smallest box size
-#    if smallest box size is less than v
-#           go to the next door
-#    else 
+#    if v is less than smallest box size
+
 #           set smallest box size to v
 #           set smallest box label to k
 #     end
