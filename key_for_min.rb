@@ -27,7 +27,6 @@ end
 # for each k,v pair
 #    compare v to smallest box size
 #    if v is less than smallest box size
-
 #           set smallest box size to v
 #           set smallest box label to k
 #     end
